@@ -1,7 +1,7 @@
 * **Hi, I’m @phi5ic (Aravind Anilraj).** 
 * **I’m interested in Assembly, Reverse Engineering and Data Science.** 
 * **I’m currently learning Assembly, C.** 
-* **I’m looking to collaborate on anything I find interesting ( right now the only languages I am comfortable at is Python, C and SQL ).** 
+* **I’m looking to collaborate on anything I find interesting.** 
 * **Pronouns: He/Him.** 
 * **I am open to criticism so feel free to review my code and please do let me know where I can improve.** 
 
