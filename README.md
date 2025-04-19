@@ -1,4 +1,4 @@
-* **Hi, I’m @phi5ic (Aravind Anilraj).** 
+* **Hi, I’m @phi5ic.** 
 * **I’m interested in Assembly, Reverse Engineering and Data Science.** 
 * **I’m currently learning Assembly, C.** 
 * **I’m looking to collaborate on anything I find interesting.** 
