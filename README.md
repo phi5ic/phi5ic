@@ -1,5 +1,5 @@
 * **Hi, I’m @phi5ic.** 
-* **I’m interested in Kernel development, Systems Engineering and a little bit of Data Science.** 
+* **I’m interested in Kernel Development and Systems Engineering.** 
 * **I’m currently learning Rust, C.**  
 * **Pronouns: He/Him.** 
 * **I am open to criticism so feel free to review my code and please do let me know where I can improve.**
