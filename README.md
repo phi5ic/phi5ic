@@ -1,4 +1,3 @@
-**phi5ic**
 Systems programmer. Kernel contributor. Building Nifsi, a distributed userspace OS layer in Rust.
 
 **What I work on**
