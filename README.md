@@ -1,8 +1,8 @@
 Systems programmer. Kernel contributor. Building Nifsi, a distributed userspace OS layer in Rust.
 
 **What I work on**
-*Linux kernel* - contributing to ASoC subsystem. I got my patches merged into the sound git tree.
-*Nifsi* - a daemon that makes multiple Linux machines feel like one single computer while not using any containers or YAML.
+* *Linux kernel* - contributing to ASoC subsystem. I got my patches merged into the sound git tree.
+* *Nifsi* - a daemon that makes multiple Linux machines feel like one single computer while not using any containers or YAML.
 
 **Stack**
 * Rust
