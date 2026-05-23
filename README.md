@@ -7,6 +7,10 @@ Systems programmer. Kernel contributor. Building Nifsi, a distributed userspace 
 **Stack**
 * Rust
 * C
+* Python
+* Pandas
+* Numpy
+* Matplotlib
 * Linux
 * FUSE
 <!---
