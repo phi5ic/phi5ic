@@ -1,18 +1,26 @@
-Systems programmer. Kernel contributor. Building Nifsi, a distributed userspace OS layer in Rust.
+# Aravind Anilraj
+ 
+Systems programmer working at the kernel/userspace boundary. Upstream Linux contributor. Currently building **Nifsi**, a distributed userspace OS layer in Rust.
+ 
+---
+ 
+### What I work on
+ 
+**Linux Kernel** — Contributing to the ASoC subsystem and Intel thermal drivers. Patches merged into the mainline sound tree and backported to stable via AUTOSEL.
+ 
+**Nifsi** — A daemon that makes a cluster of Linux machines feel like one computer. Multi-Raft consensus, FUSE, WireGuard. No containers, no YAML.
+ 
+---
+ 
+### Stack
+ 
+`Rust` `C` `Python` `Linux` `FUSE`
+ 
+---
 
-**What I work on**
-* *Linux kernel* - contributing to ASoC subsystem. I got my patches merged into the sound git tree.
-* *Nifsi* - a daemon that makes multiple Linux machines feel like one single computer while not using any containers or YAML.
+[aravindanilraj0702@gmail.com](mailto:aravindanilraj0702@gmail.com)
 
-**Stack**
-* Rust
-* C
-* Python
-* Pandas
-* Numpy
-* Matplotlib
-* Linux
-* FUSE
+
 <!---
 phi5ic/phi5ic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
