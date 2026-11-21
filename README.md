@@ -19,7 +19,9 @@ Systems programmer working at the kernel/userspace boundary. Upstream Linux cont
 ---
 
 [aravindanilraj0702@gmail.com](mailto:aravindanilraj0702@gmail.com)
-[website/portfolio](phi5ic.github.io)
+
+
+[website/portfolio](https://phi5ic.github.io/about/)
 
 <!---
 phi5ic/phi5ic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
